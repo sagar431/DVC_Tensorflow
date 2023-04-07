@@ -1,0 +1,8 @@
+dvc
+tensorflow-macos
+matplotlib
+numpy
+pandas
+tqdm
+PyYAML
+boto3 ## for awsdd
