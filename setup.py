@@ -10,7 +10,7 @@ setup(
     description="A small package for dvc ml pipeline demo",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/sagar431/dvc-ml-basic",
+    url="https://github.com/sagar431/DVC_tensorlfow",
     author_email="sagarpallai1997@gmail.com",
     packages=["src"],
     python_requires=">=3.7",
